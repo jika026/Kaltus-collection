@@ -155,7 +155,7 @@ li {
   justify-content: center;
   align-items: center;
   height: calc(100vh - 89px);
-  background-image: url(../images/backround_test.png);
+  background-image: url(../images/backround_test-min.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
